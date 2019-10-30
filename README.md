@@ -1,3 +1,6 @@
+# THIS REPOSITORY IS NOW ARCHIVED
+The URL https://live.asp.net now redirects to the combined [.NET Community Standup](https://dotnet.microsoft.com/platform/community/standup) site which uses a different code base.
+
 ## live.asp.net
 Code for the ASP.NET Community Stand-up site.
 
